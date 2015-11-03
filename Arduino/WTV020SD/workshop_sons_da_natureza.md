@@ -36,6 +36,9 @@ title: Arduino + WTV020SD
 ![Alt text](/Arduino/WTV020SD/_pics/diagrama_sem_arduino "Montagem Básica")  
 "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
 
+![Alt text](/Arduino/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
+"Diagrama de funcionamento do LED (Fonte: thalesnicoleti)"  
+
 ### Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
 
 ### Converter .MP3 para .AD4 (30 min)

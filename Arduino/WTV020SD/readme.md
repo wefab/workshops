@@ -56,7 +56,7 @@ http://www.orangefreesounds.com/
 4. Renomear de 0000 até 0512
 Se der problema, ajustar volume (<6dB) pelo Audacity  
 
-### 6. Acabou??? Tem atividade EXTRA!
+### 6. Acabou??? Tem atividade [EXTRA](https://github.com/wefab/workshops/edit/master/Arduino/WTV020SD/workshop_sons_da_natureza_extra.md)!
 
 ## Referências
 

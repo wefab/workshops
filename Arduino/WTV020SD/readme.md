@@ -67,5 +67,5 @@ Se der problema, ajustar volume (<6dB) pelo Audacity
 *   [Makezine](http://makezine.com/projects/instant-nature-quick-peaceful/)
 
 ## Contatos
-camilagondo@wefab.cc
+camilagondo@wefab.cc  
 rafael@wefab.cc

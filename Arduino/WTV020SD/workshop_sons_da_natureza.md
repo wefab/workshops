@@ -33,7 +33,7 @@ title: Arduino + WTV020SD
 
 ## Passos
 ### Montar circuito básico e instalar bibliotecas (30 min)
-![Alt text](/Arduino/WTV020SD/_pics/montagem_basica.jpg "Montagem Básica")  
+![Alt text](/Arduino/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
 "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
 
 ### Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)

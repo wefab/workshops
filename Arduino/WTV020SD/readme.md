@@ -1,5 +1,5 @@
 ---
-layout: protomake
+layout: workshop
 title: Arduino + WTV020SD
 ---
 

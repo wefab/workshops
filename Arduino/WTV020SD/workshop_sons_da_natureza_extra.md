@@ -1,5 +1,9 @@
+---
+layout: workshop
+title: Arduino + WTV020SD
+---
 
-### 6. Modificar circuito e subir código (30 min)
+### 8. Modificar circuito e subir código (30 min)
 ![Alt text](/Arduino/WTV020SD/_pics/montagem_arduino.jpg "Montagem com Arduino")  
 "Esquemático para Montagem com Arduino (Fonte: BuildCircuit)"  
 
@@ -8,5 +12,5 @@
 ~~http://forum.arduino.cc/index.php?action=dlattach;topic=117009.0;attach=34018~~  
 3. Compilar Exemplo
 
-### 7. Instalar Hotkeys for Arduino (20 min)
-### 8. Explorar! (30 min)
+### 9. Instalar Hotkeys for Arduino (20 min)
+### 10. Explorar! (30 min)

@@ -65,3 +65,7 @@ Se der problema, ajustar volume (<6dB) pelo Audacity
 *   [Forum Arduino](http://forum.arduino.cc/index.php?topic=117009.0)
 *   [Arduino Eletrônica](http://www.arduinoeletronica.com.br/2014/08/converter-arquivos-mp3-para-ad4player.html#.Vikc-TRXTXg)
 *   [Makezine](http://makezine.com/projects/instant-nature-quick-peaceful/)
+
+## Contatos
+camilagondo@wefab.cc
+rafael@wefab.cc

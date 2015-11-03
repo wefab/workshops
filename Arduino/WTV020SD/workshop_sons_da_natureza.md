@@ -19,7 +19,7 @@ title: Arduino + WTV020SD
 *   Resistores
 *   LEDs (para indicação de funcionamento)
 *   Cartão Micro SD 2Gb
-*   $Software$ Hotkeys for Arduino
+*   Software Hotkeys for Arduino
 
 ## Características WTV020SD
 

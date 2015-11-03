@@ -41,14 +41,19 @@ title: Arduino + WTV020SD
 
 ### 2. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
 
-### 3. Converter .MP3 para .AD4 (30 min)
+### 3. Baixar sons de pássaros
+http://www.freesfx.co.uk/soundeffects/birds/  
+http://soundbible.com/tags-bird.html  
+http://www.orangefreesounds.com/  
+
+### 4. Converter .MP3 para .AD4 (30 min)
 1. Baixar e abrir [USB Recorder](https://mega.nz/#!sU0SxaKQ!_0WuBYE-fSiBwaLse282Z6pYjxTPzv1BDCKLX5xNHKc)
 2. Ajustar sample rate para 32000
-3. Selecionar as músicas e clicar "Encode"
+3. Localizar pasta, selecionar as músicas e clicar "Encode"
 4. Renomear de 0000 até 0512
 Se der problema, ajustar volume (<6dB) pelo Audacity
 
-### 4. Modificar circuito e subir código (30 min)
+### 5. Modificar circuito e subir código (30 min)
 ![Alt text](/Arduino/WTV020SD/_pics/montagem_arduino.jpg "Montagem com Arduino")  
 "Esquemático para Montagem com Arduino (Fonte: BuildCircuit)"  
 
@@ -57,8 +62,8 @@ Se der problema, ajustar volume (<6dB) pelo Audacity
 ~~http://forum.arduino.cc/index.php?action=dlattach;topic=117009.0;attach=34018~~  
 3. Compilar Exemplo
 
-### 5. Instalar Hotkeys for Arduino (20 min)
-### 6. Explorar! (30 min)
+### 6. Instalar Hotkeys for Arduino (20 min)
+### 7. Explorar! (30 min)
 
 ## Referências
 

@@ -39,24 +39,26 @@ title: Arduino + WTV020SD
 ![Alt text](/Arduino/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
 "Diagrama de funcionamento do LED (Fonte: thalesnicoleti)"  
 
-### 2. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
+### 3. Preparar cabo USB para fonte de alimentação
+
+### 3. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
 Selecionar opção "Overwrite Format".
 
-### 3. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
+### 4. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
 
-### 4. Baixar sons de pássaros
+### 5. Baixar sons de pássaros
 http://www.freesfx.co.uk/soundeffects/birds/  
 http://soundbible.com/tags-bird.html  
 http://www.orangefreesounds.com/  
 
-### 5. Converter .MP3 para .AD4 (30 min)
+### 6. Converter .MP3 para .AD4 (30 min)
 1. Baixar e abrir [USB Recorder](https://mega.nz/#!sU0SxaKQ!_0WuBYE-fSiBwaLse282Z6pYjxTPzv1BDCKLX5xNHKc)
 2. Ajustar sample rate para 32000
 3. Localizar pasta, selecionar as músicas e clicar "Encode"
 4. Renomear de 0000 até 0512
 Se der problema, ajustar volume (<6dB) pelo Audacity  
 
-### 6. Acabou??? Tem atividade [EXTRA](https://github.com/wefab/workshops/edit/master/Arduino/WTV020SD/workshop_sons_da_natureza_extra.md)!
+### 7. Maestro, música!!!
 
 ## Referências
 
@@ -67,5 +69,5 @@ Se der problema, ajustar volume (<6dB) pelo Audacity
 *   [Makezine](http://makezine.com/projects/instant-nature-quick-peaceful/)
 
 ## Contatos
-camilagondo@wefab.cc  
+hello@wefab.cc  
 rafael@wefab.cc

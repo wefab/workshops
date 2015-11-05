@@ -40,26 +40,32 @@ title: Arduino + WTV020SD
 "Diagrama de funcionamento do LED (Fonte: thalesnicoleti)"  
 
 ### 2. Preparar cabo USB para fonte de alimentação
-![Alt text](/Arduino/WTV020SD/_pics/usb_cable.jpg "Preparação CAbo USB")  
+![Alt text](/Arduino/WTV020SD/_pics/usb_cable.jpg "Preparação Cabo USB")  
+"Hack That Holy USB! (Fonte: instructables)"
 
-### 3. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
+### 3. Soldar alto-falantes
+
+### 4. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
 Selecionar opção "Overwrite Format".
 
-### 4. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
+### 5. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
+Selecionar opção "Overwrite Format".
 
-### 5. Baixar sons de pássaros
+### 6. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
+
+### 7. Baixar sons de pássaros
 http://www.freesfx.co.uk/soundeffects/birds/  
 http://soundbible.com/tags-bird.html  
 http://www.orangefreesounds.com/  
 
-### 6. Converter .MP3 para .AD4 (30 min)
+### 8. Converter .MP3 para .AD4 (30 min)
 1. Baixar e abrir [USB Recorder](https://mega.nz/#!sU0SxaKQ!_0WuBYE-fSiBwaLse282Z6pYjxTPzv1BDCKLX5xNHKc)
 2. Ajustar sample rate para 32000
 3. Localizar pasta, selecionar as músicas e clicar "Encode"
 4. Renomear de 0000 até 0512
 Se der problema, ajustar volume (<6dB) pelo Audacity  
 
-### 7. Maestro, música!!!
+### 9. Maestro, música!!!
 
 ## Referências
 

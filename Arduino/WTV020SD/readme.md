@@ -33,7 +33,7 @@ title: Arduino + WTV020SD
 
 ## Passos
 ### 1. Montar circuito básico e instalar bibliotecas (30 min)
-![Alt text](/Arduino/WTV020SD/_pics/diagrama_sem_arduino "Montagem Básica")  
+![Alt text](/Arduino/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
 "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
 
 ![Alt text](/Arduino/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
@@ -54,8 +54,8 @@ Selecionar opção "Overwrite Format".
 ### 6. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
 
 ### 7. Baixar sons de pássaros
-http://www.freesfx.co.uk/soundeffects/birds/  
-http://soundbible.com/tags-bird.html  
+http://www.freesfx.co.uk/soundeffects/
+http://soundbible.com/ 
 http://www.orangefreesounds.com/  
 
 ### 8. Converter .MP3 para .AD4 (30 min)

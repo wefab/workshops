@@ -39,7 +39,7 @@ title: Arduino + WTV020SD
 ![Alt text](/Arduino/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
 "Diagrama de funcionamento do LED (Fonte: thalesnicoleti)"  
 
-### 3. Preparar cabo USB para fonte de alimentação
+### 2. Preparar cabo USB para fonte de alimentação
 ![Alt text](/Arduino/WTV020SD/_pics/usb_cable.jpg "Preparação CAbo USB")  
 
 ### 3. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)

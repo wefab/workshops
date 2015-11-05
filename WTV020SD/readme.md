@@ -33,14 +33,14 @@ title: Arduino + WTV020SD
 
 ## Passos
 ### 1. Montar circuito básico e instalar bibliotecas (30 min)
-![Alt text](/Arduino/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
+![Alt text](/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
 "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
 
-![Alt text](/Arduino/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
+![Alt text](/WTV020SD/_pics/diagrama_led.png "Diagrama LED")  
 "Diagrama de funcionamento do LED (Fonte: thalesnicoleti)"  
 
 ### 2. Preparar cabo USB para fonte de alimentação
-![Alt text](/Arduino/WTV020SD/_pics/usb_cable.jpg "Preparação Cabo USB")  
+![Alt text](/WTV020SD/_pics/usb_cable.jpg "Preparação Cabo USB")  
 "Hack That Holy USB! (Fonte: instructables)"
 
 ### 3. Soldar alto-falantes

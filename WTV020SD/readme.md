@@ -11,15 +11,14 @@ title: Arduino + WTV020SD
 *   Open Source / Comunidade
 
 ## Materiais
-*   Arduino UNO
 *   WTV020SD
 *   Alto-Faltantes
-*   Protoboard (para facilitar a prototipagem)
-*   Botões de simples acionamento (para controle do módulo)
-*   Resistores
-*   LEDs (para indicação de funcionamento)
-*   Cartão Micro SD 2Gb
-*   Software Hotkeys for Arduino
+*   Protoboard 170 pinos
+*   Botões de simples acionamento
+*   Resistore 470R
+*   LED (para indicação de funcionamento)
+*   Regulador de Tensão LM1117T
+*   Cartão Micro SD
 
 ## Características WTV020SD
 
@@ -48,24 +47,21 @@ title: Arduino + WTV020SD
 ### 4. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
 Selecionar opção "Overwrite Format".
 
-### 5. Baixar [Formatter 3](https://www.sdcard.org/downloads/formatter_3/) e Formatar Cartão Micro SD (10 min)
-Selecionar opção "Overwrite Format".
+### 5. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
 
-### 6. Baixar [Samples](https://mega.nz/#!4RN3VRbC!nu8mjApjJ-MkKKPq9EVwQ2TfoTf3nNRNpzcQeEM9-50) e Testar! (10 min)
-
-### 7. Baixar sons de pássaros
+### 6. Baixar sons
 http://www.freesfx.co.uk/soundeffects/
 http://soundbible.com/ 
 http://www.orangefreesounds.com/  
 
-### 8. Converter .MP3 para .AD4 (30 min)
+### 7. Converter .MP3 para .AD4 (30 min)
 1. Baixar e abrir [USB Recorder](https://mega.nz/#!sU0SxaKQ!_0WuBYE-fSiBwaLse282Z6pYjxTPzv1BDCKLX5xNHKc)
 2. Ajustar sample rate para 32000
 3. Localizar pasta, selecionar as músicas e clicar "Encode"
 4. Renomear de 0000 até 0512
 Se der problema, ajustar volume (<6dB) pelo Audacity  
 
-### 9. Maestro, música!!!
+### 8. Maestro: música!!!
 
 ## Referências
 
